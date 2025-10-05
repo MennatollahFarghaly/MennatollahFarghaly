@@ -1,12 +1,12 @@
 ## Hi there 👋
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm Mennatollah Adel</h1>
+<h1 align="center">👋 Hi, I'm Mennatollah A. Farghaly</h1>
 <h3 align="center">💻 Systems & Computer Engineering Graduate | Cybersecurity | Cloud | Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:mennatollah.farghaly@email.com">Email</a> •
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/mennatollah-a-farghaly-676bb221a/)">LinkedIn</a> •
-  <a href="[https://github.com/yourusername](https://github.com/MennatollahFarghaly/)">GitHub</a>
+  <a href="https://www.linkedin.com/in/mennatollah-a-farghaly-676bb221a/">LinkedIn</a> •
+  <a href="https://github.com/MennatollahFarghaly/">GitHub</a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Currently:
 
 ---
 
-## 🛰️ Featured Projects
+<!--## 🛰️ Featured Projects
 
 ### 🔹 Mission Control Center (CubeSat)
 **Stack:** STM32, LabVIEW, PostgreSQL, Django, ESP32-CAM, AI Models  
@@ -33,9 +33,9 @@ Currently:
 - Deployed AI models for **fire and illegal-construction detection** via satellite imagery.
 
 ### 🔹 Web Application Penetration Testing – OWASP Juice Shop
-**Tools:** Nmap, Burp Suite, Metasploit, OWASP ZAP  
+**Tools:** Nmap, Burp Suite, Metasploit  
 - Participated in vulnerability scanning and exploitation in a team environment.  
-- Identified and documented a **PHP-based information disclosure** vulnerability.
+- Identified and documented a **PHP-based information disclosure** vulnerability.-->
 
 ---
 
@@ -65,7 +65,7 @@ Currently:
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql,html,burpsuite,metasploit,stm32" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql,burpsuite,metasploit,stm32" />
 </p>
 
 ---
@@ -80,6 +80,7 @@ Currently:
 ⭐ **“Securing systems isn’t just about protection — it’s about understanding how everything operates and connects.”**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+![Mennatollah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
 
 
 <!--
