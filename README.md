@@ -65,7 +65,7 @@ Currently:
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql,burpsuite,metasploit,stm32" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql" />
 </p>
 
 ---
@@ -79,9 +79,7 @@ Currently:
 
 ⭐ **“Securing systems isn’t just about protection — it’s about understanding how everything operates and connects.”**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=My%20Passion%20Streak&theme=algolia&border_radius=5.8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MennatollahFarghaly&theme=algolia&border_radius=5.8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats)
 
 
 <!--
