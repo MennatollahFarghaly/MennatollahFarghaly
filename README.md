@@ -81,6 +81,7 @@ Currently:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=My%20Passion%20Streak&theme=algolia&border_radius=5.8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <!--
