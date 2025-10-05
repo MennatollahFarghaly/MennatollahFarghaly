@@ -4,9 +4,9 @@
 <h3 align="center">💻 Systems & Computer Engineering Graduate | Cybersecurity | Cloud | Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> •
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a>
+  <a href="mailto:mennatollah.farghaly@email.com">Email</a> •
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/mennatollah-a-farghaly-676bb221a/)">LinkedIn</a> •
+  <a href="[https://github.com/yourusername](https://github.com/MennatollahFarghaly/)">GitHub</a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 🎓 Recent **Systems and Computer Engineering** graduate from Al-Azhar University (Class of 2025).  
-🚀 Passionate about **cybersecurity**, **networking**, **embedded systems**, and **cloud infrastructure**.  
+🚀 Passionate about **Cybersecurity**,and interested in **Networking**, **Embedded systems**, and **Cloud infrastructure**.  
 💡 I love building secure, connected systems — from low-level embedded devices to cloud-based telemetry dashboards.  
 
 Currently:
@@ -65,21 +65,22 @@ Currently:
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,ubuntu,aws,docker,git,postgresql,html,burpsuite,metasploit,stm32" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql,html,burpsuite,metasploit,stm32" />
 </p>
 
 ---
 
 ## 📫 Get in Touch
-💬 Ask me about **Cybersecurity, Embedded Systems, Cloud Fundamentals, or Telemetry Systems**  
-📧 Reach me at: **your@email.com**  
-🌍 Portfolio: *(optional — add if you have a website or Notion portfolio)*
+💬 Ask me about **Cybersecurity, Embedded Systems, Cloud Fundamentals, or Cubesat Systems**  
+📧 Reach me at: **mennatollah.farghaly@email.com**  
+<!--🌍 Portfolio: *(optional — add if you have a website or Notion portfolio)*-->
 
 ---
 
-⭐ **“Securing systems isn’t just about protection — it’s about understanding how everything connects.”**
+⭐ **“Securing systems isn’t just about protection — it’s about understanding how everything operates and connects.”**
 
-![Mennatollah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <!--
 **MennatollahFarghaly/MennatollahFarghaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
