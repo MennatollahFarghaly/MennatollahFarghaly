@@ -79,8 +79,8 @@ Currently:
 
 ⭐ **“Securing systems isn’t just about protection — it’s about understanding how everything operates and connects.”**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-![Mennatollah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=My%20Passion%20Streak&theme=algolia&border_radius=5.8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats)
+
 
 
 <!--
