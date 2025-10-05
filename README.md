@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm Mennatollah A. Farghaly</h1>
 <h3 align="center">💻 Systems & Computer Engineering Graduate | Cybersecurity | Cloud | Embedded Systems Enthusiast</h3>
@@ -47,7 +46,7 @@ Currently:
 | **Networking** | CCNA Fundamentals, Routing/Switching, Firewalls, VPNs |
 | **Operating Systems** | Linux (Ubuntu, Kali), Windows Server, Active Directory |
 | **Cloud & DevOps** | AWS, Docker, CI/CD, Git, Bash, PowerShell |
-| **Security Tools** | Nmap, Burp Suite, Metasploit, Wireshark, OWASP ZAP |
+| **Security Tools** | Nmap, Burp Suite, Metasploit, Wireshark |
 | **Embedded Systems** | STM32 (CubeIDE), UART, I2C, SPI, Sensors Integration |
 | **Databases & Web** | PostgreSQL, Django, HTML, Selenium, LabVIEW |
 
@@ -67,13 +66,6 @@ Currently:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql" />
 </p>
-
----
-
-## 📫 Get in Touch
-💬 Ask me about **Cybersecurity, Embedded Systems, Cloud Fundamentals, or Cubesat Systems**  
-📧 Reach me at: **mennatollah.farghaly@email.com**  
-<!--🌍 Portfolio: *(optional — add if you have a website or Notion portfolio)*-->
 
 ---
 
