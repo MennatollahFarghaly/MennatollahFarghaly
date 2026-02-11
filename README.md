@@ -1,10 +1,10 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm Mennatollah A. Farghaly</h1>
+<h1 align="center">👋 Hi, I'm Mennatollah Farghaly</h1>
 <h3 align="center">💻 Systems & Computer Engineering Graduate | Cybersecurity | Cloud | Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:mennatollah.farghaly@email.com">Email</a> •
-  <a href="https://www.linkedin.com/in/mennatollah-a-farghaly-676bb221a/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mennatollahfarghaly/">LinkedIn</a> •
   <a href="https://github.com/MennatollahFarghaly/">GitHub</a>
 </p>
 
@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 🎓 Recent **Systems and Computer Engineering** graduate from Al-Azhar University (Class of 2025).  
-🚀 Passionate about **Cybersecurity**,and interested in **Networking**, **Embedded systems**, and **Cloud infrastructure**.  
+🚀 Passionate about **Defensive Security**,and interested in **Cloud Security**, **Space Embedded systems**, and **Cloud infrastructure**.  
 💡 I love building secure, connected systems — from low-level embedded devices to cloud-based telemetry dashboards.  
 
 Currently:
@@ -45,8 +45,8 @@ Currently:
 | **Programming** | Python, C/C++, Embedded C, Java |
 | **Networking** | CCNA Fundamentals, Routing/Switching, Firewalls, VPNs |
 | **Operating Systems** | Linux (Ubuntu, Kali), Windows Server, Active Directory |
-| **Cloud & DevOps** | AWS, Docker, CI/CD, Git, Bash, PowerShell |
-| **Security Tools** | Nmap, Burp Suite, Metasploit, Wireshark |
+| **Cloud & DevOps** | Azure, Docker, CI/CD, Git, Bash, PowerShell, Kubernetes |
+| **Security Tools** | Nmap, Burp Suite, Metasploit, Wireshark, Splunk, AnyRun, Autopsy |
 | **Embedded Systems** | STM32 (CubeIDE), UART, I2C, SPI, Sensors Integration |
 | **Databases & Web** | PostgreSQL, Django, HTML, Selenium, LabVIEW |
 
@@ -55,7 +55,7 @@ Currently:
 ## 📈 Current Learning Path
 
 🚧 Expanding in:
-- ☁️ **Cloud & DevOps** – AWS, Azure, Docker, CI/CD pipelines  
+- ☁️ **Cloud & DevOps** – Azure, Docker, CI/CD pipelines, Kubernetes, Ansible, Automation  
 - 🛡️ **Blue Team Operations** – Incident response, SIEM (Splunk/Wazuh), Windows Event Monitoring  
 - 💥 **Red Team Fundamentals** – Metasploit, Exploitation, Privilege Escalation  
 
@@ -64,7 +64,7 @@ Currently:
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,kali,aws,docker,git,postgresql,kubernetes,ansible" />
 </p>
 
 ---
